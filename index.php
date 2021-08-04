@@ -219,7 +219,6 @@
                 </div>
             </div>
 
-
         </section>
 
         <!--Contacto-->
@@ -227,7 +226,6 @@
         <section class="row contacto">
 
             <!--Datos Contacto-->
-
 
             <div class="col-lg-3 col-12 col-sm-6 datosContacto order-2 order-sm-1">
                 <div class="container-fluid itemsContacto">
@@ -275,7 +273,6 @@
                 </div>
             </div>
 
-
             <!--Formulario Contacto-->
             <div class="container contacto col-lg-7 col-12 col-sm-6 pt-5 order-1 order-sm-2  " id="contacto">
                 <h3 class="text-center text-sm-start"> Contacto </h3>
@@ -311,7 +308,6 @@
                         <!--Boton-->
                         <br><a href="" class=" btnServ py-4 px-5 text-center"> ENVIAR </a>
                     </div>
-
 
                 </form>
 
